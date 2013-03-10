@@ -4,7 +4,7 @@ Delve recursively into a value to retrieve a property; without erroring.
 
 ## Why
 
-It sucks to have to do `if ( obj && obj.prop && obj.prop.secondProp ) { ... }`.
+(Suggested 3/10/2013 by lorddelta in #javascript) It sucks to have to do `if ( obj && obj.prop && obj.prop.secondProp ) { ... }`.
 
 ## Example
 
